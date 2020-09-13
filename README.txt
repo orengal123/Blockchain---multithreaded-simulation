@@ -35,7 +35,7 @@ Security enforcement and the mining concept:
 - The process of guessing magic numbers is called the mining process.
 - As N grows, the complexity of guessing a magic number increases and hence takes longer to mine.
 - N is dynamically tuned such that a block will take a specific range of mining time. 
-- In this project N is tuned to take around a minute per block (for small N it is less than a second)
+- In this project N is tuned to take around a minute per block.
 
 
 
