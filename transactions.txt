@@ -1,0 +1,6 @@
+2 10 5
+Sarah George Diana Consuela
+Consuela Sarah 50
+George Consuela 50
+Diana George 70
+Sarah Consuela 3
