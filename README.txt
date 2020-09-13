@@ -1,6 +1,4 @@
-Project Blockchain:
-
-This project simulates a Blockchain platform for secure transactions of virtual coins.
+A simulation of a Blockchain system for secure transactions of virtual coins.
 Simulation involves Miners mining blocks, while users perform VC transactions, and a dynamic system connecting them together.
 Users/miners are simulated by concurrent threads.
 The sample file will simulate the creation of 5 blocks and 4 transactions. It runs for a couple of minutes.
